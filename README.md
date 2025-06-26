@@ -12,7 +12,7 @@ This plugin allows users to:
 - Map each raster to its corresponding year
 - Calculate growth of built-up area over time within each polygon
 - Export and them view results
-- 
+  
 ---
 
 ## 🛠 Requirements
@@ -60,5 +60,5 @@ Developed by:
 
 ## 🧾 License
 
-This plugin is licensed under the **GNU General Public License v2 or later**. See [LICENSE.txt](./LICENSE.txt) for details.
+This plugin is licensed under the **GNU General Public License v2 or later**. See [LICENSE](./LICENSE) for details.
 
