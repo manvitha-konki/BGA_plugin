@@ -43,7 +43,7 @@ This plugin allows users to:
 
 ## ⚠️ Disclaimer
 
-The built-up area growth calculations and predictions provided by this plugin are based on raster classification and vector overlay techniques, which may be subject to data resolution and preprocessing accuracy.
+The built-up area growth analysis provided by this plugin are based on raster classification and vector overlay techniques, which may be subject to data resolution and preprocessing accuracy.
 Results may have an approximate margin of error of ±10%.
 Users are advised to validate outputs using ground truth or higher-resolution datasets when critical decisions depend on them.
 
