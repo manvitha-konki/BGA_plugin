@@ -1,0 +1,30 @@
+[general]
+name=BGA
+qgisMinimumVersion=3.34
+description=This is the plugin used to analyse the built-up growth in areas
+version=0.1
+author=Konkimalla Manvitha & Aadya Mahraur
+email=manvitha.nrsc@gmail.com
+
+about=The plugin given built-up raster files and administrative boundary vector file, performs visual and graphical analysis of built-up and its growth.
+homepage=https://github.com/manvitha-konki/BGA_plugin
+tracker=https://github.com/manvitha-konki/BGA_plugin/issues
+repository=https://github.com/manvitha-konki/BGA_plugin
+
+
+hasProcessingProvider=no
+changelog=Initial version: supports raster and vector input selection, progress bar, and map visualization of predicted built-up growth.
+
+tags=urban, built-up, growth, Analysis, remote sensing, python
+
+
+category=Plugin
+icon=icon.png
+experimental=False
+deprecated=False
+
+Category of the plugin: Raster, Vector, Analysis
+
+license=GPL-2+
+server=False
+
