@@ -11,14 +11,14 @@ This plugin allows users to:
 - Load a vector polygon layer (such as districts or wards)
 - Map each raster to its corresponding year
 - Calculate growth of built-up area over time within each polygon
-- Export and them view results 
-
+- Export and them view results
+- 
 ---
 
 ## 🛠 Requirements
 
 - QGIS 3.34 or later
-- Input data:
+- Input data: Landsat Dataset.
   - Multi-temporal binary raster layers (0: non-built-up, 1: built-up)
   - One polygon vector layer (e.g., districts or AOIs)
 
@@ -41,13 +41,21 @@ This plugin allows users to:
 
 ---
 
+## ⚠️ Disclaimer
+
+The built-up area growth calculations and predictions provided by this plugin are based on raster classification and vector overlay techniques, which may be subject to data resolution and preprocessing accuracy.
+Results may have an approximate margin of error of ±10%.
+Users are advised to validate outputs using ground truth or higher-resolution datasets when critical decisions depend on them.
+
+---
+
 ## 👨‍💻 Authors
 
 Developed by:
 
 - **Manvitha Konkimalla**
 - **Aadya Mahraur**
-
+- **Ram Das M**
 ---
 
 ## 🧾 License
