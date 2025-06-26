@@ -55,7 +55,7 @@ Developed by:
 
 - **Manvitha Konkimalla**
 - **Aadya Mahraur**
-- **Ram Das M**
+- **Rama Dasu M**
 ---
 
 ## 🧾 License
