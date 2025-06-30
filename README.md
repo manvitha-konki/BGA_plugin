@@ -1,4 +1,4 @@
-# Plugin Name: BGA
+# Plugin Name: BGA (Built-up Growth Analysis)
 
 A QGIS plugin to analyze built-up area growth over time using multi-temporal raster layers and a polygon vector layer (e.g., administrative boundaries or AOI). This plugin was developed using QGIS Plugin Builder.
 
